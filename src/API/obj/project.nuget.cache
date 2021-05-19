@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "5EyByXlVqOF3a57Y5fVL4cFcypCJ7KlJUPM5JL2LBn4McZRRJtdU6c1l9fh31UTFKG1ldA9oDIsn39CMpJjFIw==",
+  "dgSpecHash": "eD3bRUeZHRJ033u0dU387Z6ZcmYVW7GnZbNKeMh61UuXhkcwoxHXdbpTxze3mHgGVhSyYS74S5SX3zZyf28Y3Q==",
   "success": true,
   "projectFilePath": "/Users/sumitroy/Desktop/api/udemyproject/src/API/API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sumitroy/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.0.0/microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "/Users/sumitroy/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/sumitroy/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/sumitroy/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/sumitroy/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/sumitroy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/sumitroy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }

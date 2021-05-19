@@ -17,3 +17,10 @@
 /Users/sumitroy/Desktop/api/udemyproject/src/API/obj/Debug/netcoreapp3.1/API.dll
 /Users/sumitroy/Desktop/api/udemyproject/src/API/obj/Debug/netcoreapp3.1/API.pdb
 /Users/sumitroy/Desktop/api/udemyproject/src/API/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+/Users/sumitroy/Desktop/api/udemyproject/src/API/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/sumitroy/Desktop/api/udemyproject/src/API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sumitroy/Desktop/api/udemyproject/src/API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sumitroy/Desktop/api/udemyproject/src/API/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sumitroy/Desktop/api/udemyproject/src/API/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/sumitroy/Desktop/api/udemyproject/src/API/obj/Debug/netcoreapp3.1/API.csproj.CopyComplete
+/Users/sumitroy/Desktop/api/udemyproject/src/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Versioning.dll
